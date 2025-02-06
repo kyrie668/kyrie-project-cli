@@ -13,9 +13,9 @@ const { version } = require('../package.json');
 const program = new Command();
 
 const REPOS = {
-  admin: 'https://github.com/kyrie668/vite-shadcn-ui.git',
+  admin: 'https://github.com/kyrie668/kyrie-admin.git',
   'visualization-screen': 'https://github.com/kyrie668/visualization-screen.git',
-  //   simple: 'github-user/simple-repo',
+  'official-website': 'https://github.com/kyrie668/kyrie-official-website.git',
 };
 
 async function createProject(projectName) {
