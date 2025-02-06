@@ -1,0 +1,30 @@
+{
+  "name": "kyrie-project-cli",
+  "version": "1.1.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-kyrie-project": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vite",
+    "shadcn",
+    "cli",
+    "boilerplate",
+    "template"
+  ],
+  "author": "Kyrie",
+  "license": "ISC",
+  "description": "A CLI tool to build Vite projects with admin project template and visualization-screen template installed.",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "degit": "^2.8.4",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.4.1",
+    "simple-git": "^3.27.0"
+  }
+}
