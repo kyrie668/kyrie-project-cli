@@ -15,8 +15,9 @@ const program = new Command();
 const REPOS = {
   admin: 'https://github.com/kyrie668/kyrie-admin.git',
   'visualization-screen': 'https://github.com/kyrie668/visualization-screen.git',
-  'official-website': 'https://github.com/kyrie668/kyrie-official-website.git',
+  'official-website': 'https://github.com/kyrie668/kyrie-website.git',
   'taro-mini-program': 'https://github.com/kyrie668/weapp-taro4.git',
+  'react-native-app': 'https://github.com/kyrie668/native-app.git',
 };
 
 async function createProject(projectName) {
