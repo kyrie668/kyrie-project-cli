@@ -18,6 +18,7 @@ const REPOS = {
   'official-website': 'https://github.com/kyrie668/kyrie-website.git',
   'taro-mini-program': 'https://github.com/kyrie668/weapp-taro4.git',
   'react-native-app': 'https://github.com/kyrie668/native-app.git',
+  'react-native-expo': 'https://github.com/kyrie668/expo-app.git',
 };
 
 async function createProject(projectName) {

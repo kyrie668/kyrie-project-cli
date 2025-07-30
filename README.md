@@ -45,6 +45,7 @@ create-kyrie-project <项目名称>
 | `official-website` | 官方网站模板 | [kyrie-website](https://github.com/kyrie668/kyrie-website.git) |
 | `taro-mini-program` | Taro 小程序模板 | [weapp-taro4](https://github.com/kyrie668/weapp-taro4.git) |
 | `react-native-app` | React Native 移动应用模板 | [native-app](https://github.com/kyrie668/native-app.git) |
+| `react-native-expo` | React Native 移动应用模板(使用expo构建) | [native-expo](https://github.com/kyrie668/expo-app.git) |
 
 ## 示例
 
