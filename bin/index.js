@@ -19,6 +19,7 @@ const REPOS = {
   'taro-mini-program': 'https://github.com/kyrie668/weapp-taro4.git',
   'react-native-app': 'https://github.com/kyrie668/native-app.git',
   'react-native-expo': 'https://github.com/kyrie668/expo-app.git',
+  'tauri-app': 'https://github.com/kyrie668/tauri-app.git',
 };
 
 async function createProject(projectName) {
