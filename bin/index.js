@@ -20,6 +20,7 @@ const REPOS = {
   'react-native-app': 'https://github.com/kyrie668/native-app.git',
   'react-native-expo': 'https://github.com/kyrie668/expo-app.git',
   'tauri-app': 'https://github.com/kyrie668/tauri-app.git',
+  'next13-template': 'https://github.com/kyrie668/kyrie-next13.git',
 };
 
 async function createProject(projectName) {

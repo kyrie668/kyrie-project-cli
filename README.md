@@ -51,6 +51,7 @@ create-kyrie-project <项目名称>
 | `react-native-app`     | React Native 移动应用模板                 | [native-app](https://github.com/kyrie668/native-app.git)                     |
 | `react-native-expo`    | React Native 移动应用模板(使用 expo 构建) | [native-expo](https://github.com/kyrie668/expo-app.git)                      |
 | `tauri-app`            | Tauri 应用模板(Vite+React)                | [tauri-app](https://github.com/kyrie668/tauri-app.git)                       |
+| `next13-template`         | Nextjs13模板                | [next13-template](https://github.com/kyrie668/kyrie-next13.git)                       |
 
 ## 示例
 
