@@ -52,6 +52,7 @@ create-kyrie-project <项目名称>
 | `react-native-expo`    | React Native 移动应用模板(使用 expo 构建) | [native-expo](https://github.com/kyrie668/expo-app.git)                      |
 | `tauri-app`            | Tauri 应用模板(Vite+React)                | [tauri-app](https://github.com/kyrie668/tauri-app.git)                       |
 | `next13-template`         | Nextjs13模板                | [next13-template](https://github.com/kyrie668/kyrie-next13.git)                       |
+| `H5-template`     | React H5 页面应用模板                 | [H5-template](https://github.com/kyrie668/H5-template.git)
 
 ## 示例
 
@@ -108,6 +109,7 @@ pnpm dev
 - Taro（小程序模板）
 - React Native（移动应用模板）
 - Tauri
+- H5 Web
 
 ## GitHub
 
